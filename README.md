@@ -6,8 +6,7 @@
 - 💬 Ask me about python and machine learning.
 - 📫 How to reach me: varishgautamvari@gmail.com
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=variiiest&show_icons=true"
-        alt="variiiests" />
-</p>
+
+    [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=variiiest)](https://github.com/variiiest/github-contribution-stats/)
+
 
