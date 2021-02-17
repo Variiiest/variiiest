@@ -6,3 +6,5 @@
 - 📫 How to reach me: varishgautamvari@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=variiiest&show_icons=true)<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
