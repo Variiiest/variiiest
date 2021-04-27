@@ -8,5 +8,3 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=variiiest&theme=tokyonight&show_icons=true)<br>
 
-[![time tracker](https://wakatime.com/badge/github/Variiiest/ReactFull.svg)](https://wakatime.com/badge/github/Variiiest/ReactFull)
-
